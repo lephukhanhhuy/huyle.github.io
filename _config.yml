@@ -12,6 +12,10 @@ author:
   name:           Huy Le
   url:            http://lephukhanhhuy.github.io
   email:          lephukhanhhuy@gmail.com
+page_list:
+About:'/about'
+Archive: '/archive'
+Feed: '/atom.xml'
 
 # Custom vars
 version:          1.0.0
