@@ -2,7 +2,7 @@
 title: huyle
 email: lephukhanhhuy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  ios, objective c, swift
+  jekyll, github pages, ios, objective c, swift
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lephukhanhhuy.github.io" # the base hostname & protocol for your site
 
