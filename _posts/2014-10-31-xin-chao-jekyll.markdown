@@ -28,6 +28,7 @@ Hay hình ảnh:
 Như vậy, chúng ta hoàn toàn có thể tạo blog sử dụng kết hợp Jekyll và Github, hoàn toàn miễn phí và dễ dàng. Đây có thể là một lựa chọn tốt thay vì sử dụng cách quen thuộc hơn là dùng Wordpress.
 
 p/s: Ở dưới cùng này bạn sẽ thấy vùng để comment, mình sử dụng dịch vụ [Disqus][disqus_link], cũng rất đơn giản luôn.
+
 [jekyll_link]:      http://jekyllrb.com
 [github_link]:      http://github.com
 [disqus_link]:      http://disqus.com
