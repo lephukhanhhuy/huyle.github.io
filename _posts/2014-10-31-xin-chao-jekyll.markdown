@@ -25,7 +25,7 @@ Hay hình ảnh:
 
 ![Alt text](http://spinoff.comicbookresources.com/wp-content/uploads/2014/05/x_men_days_of_future_past_banner-wide-570x356.jpg)
 
-Như vậy, chúng ta hoàn toàn có thể sử dụng cách này để xây dựng một blog, hoàn toàn miễn phí và dễ dàng.
+Như vậy, chúng ta hoàn toàn có thể tạo blog sử dụng kết hợp Jekyll và Github, hoàn toàn miễn phí và dễ dàng.
 
 [jekyll_link]:      http://jekyllrb.com
 [github_link]:      http://github.com
