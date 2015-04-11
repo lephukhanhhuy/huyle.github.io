@@ -4,7 +4,7 @@ title:  "Xin chào Jekyll!"
 date:   2014-10-31 13:51:29
 ---
 
-Đây là bài đầu tiên sử dụng [Jekyll][jekyll_link] kết hợp với [Gihub][github_link] để chứa source code cũng như nội dung cho blog.
+Sử dụng [Jekyll][jekyll_link] kết hợp với [Gihub][github_link] để chứa nội dung cho blog.
 
 Nội dung được viết bằng ngôn ngữ markdown.
 
